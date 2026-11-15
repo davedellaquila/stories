@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stories — Dave Dell'Aquila</title>
+<meta name="description" content="Long-form stories from Fiddletown and Highway 88 country — history, people, and places, told properly.">
+<style>
+  :root{
+    --ink:#221c14; --paper:#f7f1e3; --paper2:#efe6d0; --accent:#8a5a2b; --muted:#6f6250;
+    --card:#fffdf7; --line:#d8cbae;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{background:var(--paper); color:var(--ink); font-family:Georgia,'Times New Roman',serif; line-height:1.55;}
+  .wrap{max-width:860px; margin:0 auto; padding:0 20px 64px;}
+  header{text-align:center; padding:52px 0 8px; border-bottom:3px double var(--ink);}
+  header .kicker{font-size:12px; letter-spacing:.32em; text-transform:uppercase; color:var(--accent); margin-bottom:10px;}
+  header h1{font-size:54px; font-weight:700; letter-spacing:.01em; line-height:1.05;}
+  header .sub{margin:12px auto 20px; max-width:560px; color:var(--muted); font-style:italic; font-size:17px;}
+  .dateline{font-size:12.5px; letter-spacing:.18em; text-transform:uppercase; color:var(--muted); padding:10px 0 26px; text-align:center;}
+  .story{display:block; text-decoration:none; color:inherit; background:var(--card); border:1px solid var(--line);
+    border-radius:10px; padding:28px 30px 24px; margin:0 0 22px; box-shadow:0 2px 8px rgba(60,45,20,.08);}
+  .story:hover{border-color:var(--accent); box-shadow:0 4px 16px rgba(60,45,20,.14);}
+  .story .tag{font-size:11.5px; letter-spacing:.26em; text-transform:uppercase; color:var(--accent); margin-bottom:8px;}
+  .story h2{font-size:30px; line-height:1.15; margin-bottom:8px;}
+  .story .dek{font-size:16.5px; color:#453b2c;}
+  .story .meta{margin-top:14px; font-size:13px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted);
+    display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--line); padding-top:12px;}
+  .story .read{color:var(--accent); font-weight:700;}
+  .empty{border:1px dashed var(--line); border-radius:10px; padding:26px; text-align:center; color:var(--muted); font-style:italic;}
+  footer{margin-top:44px; border-top:1px solid var(--line); padding-top:16px; text-align:center; color:var(--muted); font-size:13.5px;}
+  footer a{color:var(--accent);}
+  @media (max-width:560px){ header h1{font-size:40px;} .story{padding:22px 20px 18px;} .story h2{font-size:24px;} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">Fiddletown · California</div>
+    <h1>Stories</h1>
+    <p class="sub">Long-form stories from Highway 88 country and beyond — the history, the people, and the places, told properly.</p>
+  </header>
+  <div class="dateline">A growing collection · New stories as they're written</div>
+
+  <a class="story" href="kit-carson/">
+    <div class="tag">Featured · Sierra History</div>
+    <h2>The Kit Carson Story</h2>
+    <p class="dek">In February 1844, Kit Carson guided John C. Frémont's expedition across the Sierra in deep winter — over the pass that now carries his name. The crossing, the era, and the country it happened in: Carson Pass, Red Lake, Hope Valley, and the road down to Sutter's Fort.</p>
+    <div class="meta"><span>November 2026</span><span class="read">Read the story &#8594;</span></div>
+  </a>
+
+  <p class="empty">More stories are in the works.</p>
+
+  <footer>
+    Published from Fiddletown, California · Companion to the <a href="https://davedellaquila.github.io/fiddletown-gazette/">Fiddletown Gazette</a>
+  </footer>
+</div>
+</body>
+</html>
