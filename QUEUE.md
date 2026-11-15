@@ -27,10 +27,11 @@ Statuses: QUEUED (not built) · BUILDING · READY (stockpiled) · RELEASED (date
 | Nov 22, 2026 | The Mormon Emigrant Trail | BUILDING |
 | Nov 29, 2026 | Sutter's Fort | BUILDING |
 | Dec 6, 2026 | José María Amador | BUILDING |
-| Dec 13, 2026 | Cook's Station | QUEUED |
-| Dec 20, 2026 | Ham's Station | QUEUED |
-| Dec 27, 2026 | The Oldest Vines | QUEUED |
-| Jan 3, 2027 | The Great Immigration (Italian & European influx) | QUEUED |
+| Dec 13, 2026 | Cook's Station | BUILDING |
+| Dec 20, 2026 | Ham's Station | BUILDING |
+| Dec 27, 2026 | The Oldest Vines | BUILDING |
+| Jan 3, 2027 | The Great Immigration (Italian & European influx) | BUILDING |
+| Jan 10, 2027 | The Donner Party | BUILDING |
 
 After these: the rest of the outline, sequenced by theme — the Carson road stories,
 people of the pass, gold, the mines, the First People, immigrants, towns, land &
