@@ -33,6 +33,8 @@ Statuses: QUEUED (not built) · BUILDING · READY (stockpiled) · RELEASED (date
 | Jan 3, 2027 | The Great Immigration (Italian & European influx) | BUILDING |
 | Jan 10, 2027 | The Donner Party | BUILDING |
 | Jan 17, 2027 | The Bear Flag Revolt | BUILDING |
+| Jan 24, 2027 | The Mexican-American War in California | BUILDING |
+| Jan 31, 2027 | Kearny's Army of the West | BUILDING |
 
 After these: the rest of the outline, sequenced by theme — the Carson road stories,
 people of the pass, gold, the mines, the First People, immigrants, towns, land &
