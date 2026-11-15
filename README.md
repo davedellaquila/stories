@@ -14,6 +14,10 @@ https://davedellaquila.github.io/stories/
 3. Add a card for it at the top of the story list in `index.html`.
 4. Commit and push to `main`; GitHub Pages serves from the repo root.
 
+## Planning
+- `outline/` — the working outline of story ideas (unlinked from the front page):
+  https://davedellaquila.github.io/stories/outline/
+
 ## Stories
 - **The Kit Carson Story** (`kit-carson/`) — November 2026. Kit Carson, John C. Frémont,
   and the February 1844 winter crossing of Carson Pass. First published Nov 15, 2026.
