@@ -19,5 +19,8 @@ https://davedellaquila.github.io/stories/
   https://davedellaquila.github.io/stories/outline/
 
 ## Stories
+- **The Snowshoe Thompson Story** (`snowshoe-thompson/`) — November 2026. John "Snowshoe"
+  Thompson's twenty winters carrying the mail on skis, Placerville to Genoa, 1856–1876.
+  Published Nov 15, 2026.
 - **The Kit Carson Story** (`kit-carson/`) — November 2026. Kit Carson, John C. Frémont,
   and the February 1844 winter crossing of Carson Pass. First published Nov 15, 2026.
