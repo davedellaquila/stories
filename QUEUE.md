@@ -24,17 +24,18 @@ Statuses: QUEUED (not built) · BUILDING · READY (stockpiled) · RELEASED (date
 ## Release order
 | Sunday | Story | Status |
 |---|---|---|
-| Nov 22, 2026 | The Mormon Emigrant Trail | RELEASED Nov 22, 2026 |
-| Nov 29, 2026 | Sutter's Fort | BUILDING |
-| Dec 6, 2026 | José María Amador | BUILDING |
-| Dec 13, 2026 | Cook's Station | BUILDING |
-| Dec 20, 2026 | Ham's Station | BUILDING |
-| Dec 27, 2026 | The Oldest Vines | BUILDING |
-| Jan 3, 2027 | The Great Immigration (Italian & European influx) | BUILDING |
-| Jan 10, 2027 | The Donner Party | BUILDING |
-| Jan 17, 2027 | The Bear Flag Revolt | BUILDING |
-| Jan 24, 2027 | The Mexican-American War in California | BUILDING |
-| Jan 31, 2027 | Kearny's Army of the West | BUILDING |
+| Nov 22, 2026 | The Mormon Emigrant Trail | RELEASED Nov 22, 2026 (collection) — Gazette feature moved to Nov 29 at Dave's direction; Snowshoe Thompson featured Nov 22 instead |
+| Nov 29, 2026 | The Mormon Emigrant Trail (Gazette feature) | RELEASED Nov 22, 2026 |
+| Dec 6, 2026 | Sutter's Fort | BUILDING |
+| Dec 13, 2026 | José María Amador | BUILDING |
+| Dec 20, 2026 | Cook's Station | BUILDING |
+| Dec 27, 2026 | Ham's Station | BUILDING |
+| Jan 3, 2027 | The Oldest Vines | BUILDING |
+| Jan 10, 2027 | The Great Immigration (Italian & European influx) | BUILDING |
+| Jan 17, 2027 | The Donner Party | BUILDING |
+| Jan 24, 2027 | The Bear Flag Revolt | BUILDING |
+| Jan 31, 2027 | The Mexican-American War in California | BUILDING |
+| Feb 7, 2027 | Kearny's Army of the West | BUILDING |
 
 After these: the rest of the outline, sequenced by theme — the Carson road stories,
 people of the pass, gold, the mines, the First People, immigrants, towns, land &
