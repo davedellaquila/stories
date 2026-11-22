@@ -19,6 +19,9 @@ https://davedellaquila.github.io/stories/
   https://davedellaquila.github.io/stories/outline/
 
 ## Stories
+- **The Mormon Emigrant Trail** (`mormon-emigrant-trail/`) — November 2026. In 1848,
+  Mormon Battalion veterans turned their backs on the gold fields and built a wagon
+  road over Carson Pass. Published Nov 22, 2026.
 - **The Snowshoe Thompson Story** (`snowshoe-thompson/`) — November 2026. John "Snowshoe"
   Thompson's twenty winters carrying the mail on skis, Placerville to Genoa, 1856–1876.
   Published Nov 15, 2026.

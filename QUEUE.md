@@ -24,7 +24,7 @@ Statuses: QUEUED (not built) · BUILDING · READY (stockpiled) · RELEASED (date
 ## Release order
 | Sunday | Story | Status |
 |---|---|---|
-| Nov 22, 2026 | The Mormon Emigrant Trail | BUILDING |
+| Nov 22, 2026 | The Mormon Emigrant Trail | RELEASED Nov 22, 2026 |
 | Nov 29, 2026 | Sutter's Fort | BUILDING |
 | Dec 6, 2026 | José María Amador | BUILDING |
 | Dec 13, 2026 | Cook's Station | BUILDING |
