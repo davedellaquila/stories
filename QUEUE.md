@@ -24,8 +24,8 @@ Statuses: QUEUED (not built) · BUILDING · READY (stockpiled) · RELEASED (date
 ## Release order
 | Sunday | Story | Status |
 |---|---|---|
-| Nov 22, 2026 | The Mormon Emigrant Trail | RELEASED Nov 22, 2026 (collection) — Gazette feature moved to Nov 29 at Dave's direction; Snowshoe Thompson featured Nov 22 instead |
-| Nov 29, 2026 | The Mormon Emigrant Trail (Gazette feature) | RELEASED Nov 22, 2026 |
+| Nov 22, 2026 | — (Gazette featured The Snowshoe Thompson Story, already published Nov 15) | — |
+| Nov 29, 2026 | The Mormon Emigrant Trail | READY — converted page stashed at ~/workspace/projects/stories-stockpile/mormon-emigrant-trail/index.html (it was briefly published Nov 22, then pulled at Dave's direction the same morning so Nov 29 is its first release; to publish, copy the stash back to mormon-emigrant-trail/index.html and do the usual card/outline/README steps) |
 | Dec 6, 2026 | Sutter's Fort | BUILDING |
 | Dec 13, 2026 | José María Amador | BUILDING |
 | Dec 20, 2026 | Cook's Station | BUILDING |
