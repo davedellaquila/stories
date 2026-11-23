@@ -28,6 +28,14 @@
     display:flex; justify-content:space-between; align-items:center; border-top:1px solid var(--line); padding-top:12px;}
   .story .read{color:var(--accent); font-weight:700;}
   .empty{border:1px dashed var(--line); border-radius:10px; padding:26px; text-align:center; color:var(--muted); font-style:italic;}
+  .upcoming{background:var(--card); border:1px solid var(--line); border-radius:10px; padding:26px 30px 18px; margin:34px 0 22px; box-shadow:0 2px 8px rgba(60,45,20,.08);}
+  .upcoming h2{font-size:26px; line-height:1.15; margin-bottom:6px;}
+  .upcoming .up-note{font-size:15px; color:#453b2c; margin-bottom:14px;}
+  .up-list{list-style:none; counter-reset:up;}
+  .up-list li{display:flex; align-items:center; gap:14px; padding:10px 0; border-top:1px solid var(--line);}
+  .up-list .up-date{flex:0 0 108px; font-size:12.5px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted);}
+  .up-list .up-title{flex:1 1 auto; font-size:17px;}
+  @media (max-width:560px){ .upcoming{padding:20px 18px 12px;} .up-list .up-date{flex-basis:86px; font-size:11.5px;} .up-list .up-title{font-size:15.5px;} }
   footer{margin-top:44px; border-top:1px solid var(--line); padding-top:16px; text-align:center; color:var(--muted); font-size:13.5px;}
   footer a{color:var(--accent);}
   @media (max-width:560px){ header h1{font-size:40px;} .story{padding:22px 20px 18px;} .story h2{font-size:24px;} }
@@ -57,10 +65,30 @@
     <div class="meta"><span>November 2026</span><span class="read">Read the story &#8594;</span></div>
   </a>
 
+  <section class="upcoming">
+    <h2>Coming Sundays</h2>
+    <p class="up-note">One new story every Sunday, in the order they'll be published. Tap 👍 beside the ones you're most looking forward to — one vote per story, counted anonymously, no accounts or names.</p>
+    <ol class="up-list">
+      <li><span class="up-date">Nov 29, 2026</span><span class="up-title">The Mormon Emigrant Trail</span><span class="sv-vote" data-id="mormon-emigrant-trail"></span></li>
+      <li><span class="up-date">Dec 6, 2026</span><span class="up-title">Sutter's Fort</span><span class="sv-vote" data-id="sutters-fort"></span></li>
+      <li><span class="up-date">Dec 13, 2026</span><span class="up-title">José María Amador</span><span class="sv-vote" data-id="jose-maria-amador"></span></li>
+      <li><span class="up-date">Dec 20, 2026</span><span class="up-title">Cook's Station</span><span class="sv-vote" data-id="cooks-station"></span></li>
+      <li><span class="up-date">Dec 27, 2026</span><span class="up-title">Ham's Station</span><span class="sv-vote" data-id="hams-station"></span></li>
+      <li><span class="up-date">Jan 3, 2027</span><span class="up-title">The Oldest Vines</span><span class="sv-vote" data-id="the-oldest-vines"></span></li>
+      <li><span class="up-date">Jan 10, 2027</span><span class="up-title">The Great Immigration</span><span class="sv-vote" data-id="the-great-immigration"></span></li>
+      <li><span class="up-date">Jan 17, 2027</span><span class="up-title">The Donner Party</span><span class="sv-vote" data-id="the-donner-party"></span></li>
+      <li><span class="up-date">Jan 24, 2027</span><span class="up-title">The Bear Flag Revolt</span><span class="sv-vote" data-id="the-bear-flag-revolt"></span></li>
+      <li><span class="up-date">Jan 31, 2027</span><span class="up-title">The Mexican-American War in California</span><span class="sv-vote" data-id="the-mexican-american-war-in-california"></span></li>
+      <li><span class="up-date">Feb 7, 2027</span><span class="up-title">Kearny's Army of the West</span><span class="sv-vote" data-id="kearnys-army-of-the-west"></span></li>
+      <li><span class="up-date">Feb 14, 2027</span><span class="up-title">The Palace at 76 Main — the Sutter Creek Palace Hotel &amp; Buffalo Chips</span><span class="sv-vote" data-id="the-palace-at-76-main"></span></li>
+    </ol>
+  </section>
+
   <footer>
     Published from Fiddletown, California · Companion to the <a href="https://davedellaquila.github.io/fiddletown-gazette/">Fiddletown Gazette</a>
   </footer>
 </div>
+<script src="story-votes.js" defer></script>
 <script async src="https://visitor-counter.dave-5d7.workers.dev/beacon.js" data-site="stories"></script>
 </body>
 </html>
