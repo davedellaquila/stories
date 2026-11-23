@@ -36,8 +36,30 @@ Statuses: QUEUED (not built) · BUILDING · READY (stockpiled) · RELEASED (date
 | Jan 24, 2027 | The Bear Flag Revolt | BUILDING |
 | Jan 31, 2027 | The Mexican-American War in California | BUILDING |
 | Feb 7, 2027 | Kearny's Army of the West | BUILDING |
+| Feb 14, 2027 | The Palace at 76 Main — the Sutter Creek Palace Hotel & Buffalo Chips | PLANNED |
 
 After these: the rest of the outline, sequenced by theme — the Carson road stories,
 people of the pass, gold, the mines, the First People, immigrants, towns, land &
 water, wine, and the passes series. Full list: outline/index.html (also at
 https://davedellaquila.github.io/stories/outline/).
+
+## Planned — slot to be set
+- **The Palace at 76 Main — the Sutter Creek Palace Hotel & Buffalo Chips** —
+  added at Dave's direction Nov 23, 2026 ("let's plan on doing a story on this
+  building"). Status: PLANNED (not built). Slot: **Sun Feb 14, 2027** — Dave
+  picked "after Feb 7, in order" on Nov 23, 2026.
+  - Arc: 1860s livery stable & store on the site → the 1870s saloon era (saloon
+    and bordello; the lot's heritage banner recounts it) → the wooden Palace
+    Hotel building of 1896 → the modern café era, lastly Buffalo Chips, a
+    Main Street fixture and a local's pick → the building lost to fire (a local
+    history post dates a landmark-razing fire to October 2024 — UNVERIFIED,
+    confirm before print) → today: a fenced, empty lot on Main Street with
+    heritage banners on the fence telling the site's story.
+  - Sources/leads: Dave's Apple Maps Look Around photo of the lot and banners
+    (Nov 23, 2026, ~/workspace/user/media_library/image/image-f9e4287f.png —
+    the right-hand banner's text is legible and quotes well; the left "Sutter
+    Creek Palace" banner is partly legible, names/dates to confirm); the
+    locations database's HMdb marker records for Sutter Creek; Ledger Dispatch
+    archives for the fire; Sutter Creek Fire Protection District for the
+    incident date; a close-up photo trip for the banners would firm up the
+    left banner's names and dates.
