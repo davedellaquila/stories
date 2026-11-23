@@ -37,6 +37,7 @@ Statuses: QUEUED (not built) · BUILDING · READY (stockpiled) · RELEASED (date
 | Jan 31, 2027 | The Mexican-American War in California | BUILDING |
 | Feb 7, 2027 | Kearny's Army of the West | BUILDING |
 | Feb 14, 2027 | The Palace at 76 Main — the Sutter Creek Palace Hotel & Buffalo Chips | PLANNED |
+| Feb 21, 2027 | Buena Vista Store & Saloon | PLANNED |
 
 After these: the rest of the outline, sequenced by theme — the Carson road stories,
 people of the pass, gold, the mines, the First People, immigrants, towns, land &
@@ -63,3 +64,24 @@ https://davedellaquila.github.io/stories/outline/).
     archives for the fire; Sutter Creek Fire Protection District for the
     incident date; a close-up photo trip for the banners would firm up the
     left banner's names and dates.
+
+- **Buena Vista Store & Saloon** — added at Dave's direction Nov 23, 2026
+  ("let's add a story for the buena vista store and saloon"), the same day he
+  tipped it into the burger guide ("a good burger"). Status: PLANNED (not
+  built). Slot: **Sun Feb 21, 2027**, in order after the Palace story.
+  - Arc: a general store built in 1850 in Lancha Plana → Chinese miners
+    discover gold beneath its foundation → the store is moved six miles to
+    the Buena Vista crossroads (Buena Vista Rd × Jackson Valley Rd, near
+    Ione), its Georgia pine rafters having come "round the horn" → the
+    stone-front store at the crossroads, plaque by the Native Sons of the
+    Golden West (1973) → the Gomez family era → still a working store,
+    saloon, and kitchen today: the Buena Vista Burger, famous Friday
+    tri-tip sandwiches, and an annual chili cook-off that was already in
+    its 32nd running by 2009.
+  - Sources/leads: the locations database's HMdb records — marker 10189
+    (Buena Vista Store) and marker 101437 (Buena Vista) — including the
+    store's address, 5864 Buena Vista Rd, Ione; the building's two plaques
+    (text partly captured in a 2026 Facebook photo set of the store — a
+    close-up photo trip would firm up the wording); Lancha Plana history
+    for the move; Ledger Dispatch archives for the chili cook-off years;
+    the Gomez family, named on the plaque as current owners.
